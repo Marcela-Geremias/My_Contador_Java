@@ -1,4 +1,4 @@
-package com.example.mycontadorjava;
+package com.example.my_contador_java;
 
 import android.os.Bundle;
 import android.widget.Button;
